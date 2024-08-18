@@ -11,3 +11,13 @@ git push -u origin main
 git remote add origin https://github.com/Juicytaste/xxx
 git branch -M main
 git push -u origin main
+
+3.check the status of remote repositories
+git remote
+git remote -v
+
+4.after making changes to textfile on my computer, do as follows
+git status
+git add file.txt
+git add.
+git push origin main
